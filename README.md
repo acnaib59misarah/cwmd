@@ -4,4 +4,5 @@
 
 ### Active members ###
 - Isabella Ienciu
+- Harasim Bianca
 
